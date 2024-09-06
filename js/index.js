@@ -1,5 +1,9 @@
 //document.write('123');
 //console.log(Math.PI);
+//alert("Вывод информации");
+//confirm("Вопрос?");
+//prompt("Вопрос с текстовым ответом");
+
 //Циклы
 //певоначальное значение/ собледаемое условие / что каждый раз будет происходить с числом i
 // for(var i = 0; i < 10; i++){
@@ -24,9 +28,8 @@
 //     x++;
 // } while(y < 10);
 
-
-// Условия if ? switch case
-// || / &&
+// Условия
+// || &&
 // let number = 8;
 // if(number==5) {
 //     console.log('ok');
@@ -42,7 +45,6 @@
 //     '0';
 // alert( message );
 
-
 // let num = 10;
 // switch(num) {
 //     case "4": 
@@ -52,28 +54,17 @@
 //         console.log('not');
 // }
 
-
 //массивы
 // var arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
 // console.log(arr[0][1])
 
-
-//Функции Методы
-
-//alert("Вывод информации");
-//confirm("Вопрос?");
-//prompt("Вопрос с текстовым ответом");
-
-
 // let pustaya_peremennaya = null;
 // let peremennaya = NaN;
-
 
 // function info() {
 //     console.log('123');
 // }
 // info();
-
 
 // function info2(word) {
 //     console.log(word, 'Ivan');
@@ -84,7 +75,6 @@
 
 // let text = document.getElementById('text');
 // text.style.color = "blue";
-
 
 // Методы lenght join() sort() reverse() split()
 // class Person{
