@@ -28,7 +28,7 @@
 //     x++;
 // } while(y < 10);
 
-// Условия
+// Условные операторы
 // || &&
 // let number = 8;
 // if(number==5) {
@@ -70,8 +70,6 @@
 //     console.log(word, 'Ivan');
 // }
 // info2("Hello");
-
-//КАК ИЗМЕНИТЬ HTML ЧЕРЕЗ JS добавить можно через innerHTML
 
 // let text = document.getElementById('text');
 // text.style.color = "blue";
