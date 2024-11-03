@@ -1,8 +1,8 @@
-//document.write('123');
-//console.log(Math.PI);
-//alert("Вывод информации");
-//confirm("Вопрос?");
-//prompt("Вопрос с текстовым ответом");
+//document.write('123')
+//console.log(Math.PI)
+//alert("Вывод информации")
+//confirm("Вопрос?")
+//prompt("Вопрос с текстовым ответом")
 
 //Циклы
 //певоначальное значение/ собледаемое условие / что каждый раз будет происходить с числом i
@@ -55,10 +55,10 @@
 // }
 
 //массивы
-// var arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
+// let arr = [[1, 2, 3], [4, 5, 6], [7, 8, 9]];
 // console.log(arr[0][1])
 
-// let pustaya_peremennaya = null;
+// let pustayaPeremennaya = null;
 // let peremennaya = NaN;
 
 // function info() {
@@ -73,7 +73,14 @@
 
 // let text = document.getElementById('text');
 // text.style.color = "blue";
+// console.log(text.textContent);
 
+// let num = document.getElementById('n1');
+// let num = document.getElementById('n2');
+// console.log(n1.value + n2.value) //сложить строки 
+// console.log(typeof n1.value) //узнать тип данных
+
+//Number(n1.value)+Number(n2.value) //привести к числу и сложить
 // Методы lenght join() sort() reverse() split()
 // class Person{
 //     constructor(name, age, happiness) {
